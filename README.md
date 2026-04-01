@@ -16,8 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madheshr005)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhesh005)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madheshr005@gmail.com)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/madheshr005)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://madheshworks.vercel.app/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Madhesh_005)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=madhesh005&style=for-the-badge&color=2563EB&label=Profile+Views)
 
 </div>
@@ -30,6 +30,22 @@
 
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
+<td width="22%" align="center" valign="middle">
+
+<img src="https://github.com/Madhesh005.png" width="155" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
+
+<br/><br/>
+
+**Madhesh R**<br/>
+<sub>Full-Stack · Blockchain · ZK</sub>
+
+<br/>
+
+![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
+
+</td>
 <td width="78%" valign="middle">
 
 > *"Build systems that matter — privacy-first, chain-native, production-grade."*
@@ -46,13 +62,6 @@ madhesh = {
     "status":     "Open to internships & full-time roles",
 }
 ```
-
-</td>
-<td width="22%" align="center" valign="middle">
-
-![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
 
 </td>
 </tr>
@@ -144,12 +153,14 @@ madhesh = {
 **Blockchain & ZK**
 
 <img src="https://skillicons.dev/icons?i=solidity&theme=dark&perline=6" />
-&nbsp;
-![HyperLedger](https://img.shields.io/badge/HyperLedger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-7C3AED?style=flat-square&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-F7931A?style=flat-square&logoColor=white)
+
+<br/>
+
+<img src="https://img.shields.io/badge/HyperLedger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/zk--SNARKs-7C3AED?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+<img src="https://img.shields.io/badge/Smart_Contracts-F7931A?style=flat-square&logoColor=white" />
 
 </td>
 </tr>
@@ -202,7 +213,7 @@ A **hybrid blockchain system for MSME invoice financing** built for DeltaBuild 2
 - Eliminates duplicate invoice financing fraud for MSMEs at scale
 - **Top 12 Finalist — RBI NFPC National Hackathon** (500+ competing teams)
 
-<a href="https://github.com/madhesh005"><img src="https://img.shields.io/badge/%E2%96%B6%20VIEW%20REPO-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Madhesh005/ChainVoice"><img src="https://img.shields.io/badge/%E2%96%B6%20VIEW%20REPO-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
