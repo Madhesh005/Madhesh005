@@ -28,11 +28,11 @@
 
 ## About Me
 
-<table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
+<table align="center" border="0" width="94%" cellpadding="16" cellspacing="0">
 <tr>
-<td width="22%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/Madhesh005.png" width="155" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
+<img src="https://github.com/Madhesh005.png" width="145" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
 
 <br/><br/>
 
@@ -46,7 +46,7 @@
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
 
 </td>
-<td width="78%" valign="middle">
+<td width="65%" valign="middle">
 
 ## About Me
 
