@@ -30,7 +30,7 @@
 
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
-<td width="22%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="https://github.com/Madhesh005.png" width="155" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
 
@@ -46,7 +46,7 @@
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
 
 </td>
-<td width="78%" valign="middle">
+<td width="60%" valign="middle">
 
 > *"Build systems that matter — privacy-first, chain-native, production-grade."*
 
