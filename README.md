@@ -30,9 +30,9 @@
 
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/Madhesh005.png" width="155" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
+<img src="https://github.com/Madhesh005.png" width="160" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
 
 <br/><br/>
 
@@ -41,17 +41,16 @@
 
 <br/>
 
-![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
+![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)<br/>
+![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)<br/>
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
 
 </td>
-<td width="60%" valign="middle">
+<td width="65%" valign="middle">
 
 > *"Build systems that matter — privacy-first, chain-native, production-grade."*
 
 I'm **Madhesh R** — a **Full-Stack + Blockchain + ZK Engineer** and pre-final year **CSBS student** at Sri Sairam Engineering College, Chennai. I build privacy-preserving DeFi systems, hybrid blockchain infrastructure, and scalable web applications — with a strong focus on real-world FinTech and Web3 impact.
-
 ```python
 madhesh = {
     "role":       ["Full-Stack Developer", "Blockchain Engineer", "ZK Systems Builder"],
