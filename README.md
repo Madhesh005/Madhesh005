@@ -219,7 +219,7 @@ A collection of projects built during the **Prodigy Infotech Web Dev Internship*
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madheshr005&theme=react-dark&hide_border=true&area=true&custom_title=Madhesh%27s%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhesh005&theme=react-dark&hide_border=true&area=true&custom_title=Madhesh%27s%20Contribution%20Graph" width="100%" />
 </div>
 
 <br/>
