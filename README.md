@@ -1,18 +1,19 @@
 <div align="center">
 
-<!-- HEADER: capsule-render is generally stable; keeping it but with simpler params -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:0ea5e9&height=200&section=header&text=Madhesh%20R&fontSize=56&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20CS%20%26%20Business%20Systems&descAlignY=58&descSize=17&descColor=bae6fd" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhesh%20R&fontSize=56&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%E2%80%A2%20CSBS%20%40%20Sri%20Sairam%20%E2%80%A2%20Builder%20at%20Heart&descAlignY=58&descSize=16&descColor=93C5FD&animation=twinkling" width="100%" />
 
-<!-- Typing SVG — demolab instance is stable -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Paper+Presentation+Winner+%40+Phoenix%2725;IEEE+TEMS+Event+Coordinator+%7C+Sri+Sairam;Building+Real+Products+for+Real+Clients" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%7C+MERN+%2B+Flutter;1st+Place+%E2%80%94+Paper+Presentation+%40+Phoenix%2725+%7C+SRM;IEEE+TEMS+Event+Coordinator+%7C+Sri+Sairam;Building+real+products+for+real+clients" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<!-- Social badges — shields.io is very stable -->
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madheshr005)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madheshr005)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madheshr005)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madheshr005@gmail.com)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=madheshr005&style=for-the-badge&color=2563EB&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=madheshr005&style=for-the-badge&color=2563EB&label=Profile+Views)
 
 </div>
 
@@ -20,84 +21,109 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-> *"Turning ideas into products — one commit, one component, one client at a time."*
+<table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
+<tr>
+<td width="75%" valign="middle">
 
-I'm **Madhesh R** — a **Full-Stack Developer** and pre-final year **CS & Business Systems** student at Sri Sairam Engineering College, Chennai. I build end-to-end web products for real clients — from eCommerce platforms to startup digital ecosystems — with a sharp focus on clean architecture and seamless UX.
+> *"Ship fast, learn faster — build things people actually use."*
+
+I'm **Madhesh R** — a **Full-Stack Developer** and **pre-final year CSBS student** at Sri Sairam Engineering College, Chennai. I've shipped production-grade client projects, led event coordination for IEEE TEMS, and built across the entire web stack from UI to databases. I care deeply about clean code and real-world impact.
 
 ```python
 madhesh = {
-    "role":       ["Full-Stack Developer", "Web Developer", "IoT Enthusiast"],
-    "stack":      ["MERN", "Flutter", "PostgreSQL", "Node.js"],
-    "highlights": ["Paper Presentation Winner @ Phoenix'25", "IEEE TEMS Coordinator"],
-    "experience": ["Prodigy Infotech", "IoT Internship", "Wealth Empires"],
-    "clients":    ["ThePlug (eCommerce)", "Wealth Empires (Startup Platform)"],
-    "learning":   ["AI Integration", "System Design", "Cloud Architecture"],
-    "status":     "Open to internships & collaborations",
+    "role":       ["Full-Stack Developer", "Web Developer", "Open Source Learner"],
+    "education":  "B.Tech CSBS @ Sri Sairam Engineering College (CGPA: 8.46)",
+    "experience": ["Prodigy Infotech", "IoT Team Internship", "Wealth Empires"],
+    "stack":      ["MERN", "Flutter", "PostgreSQL", "Python"],
+    "built_for":  ["Real clients", "Hackathons", "Student communities"],
+    "status":     "Open to internships & full-time roles",
 }
 ```
+
+</td>
+<td width="25%" align="center" valign="middle">
+
+![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-## 🏆 Achievements & Highlights
+## Achievements & Highlights
 
-### Competitions & Events
+### Competitions & Recognitions
 
 | Medal | Event | Venue | Result |
 |:---:|:---|:---|:---:|
 | 🥇 | **Paper Presentation** — Phoenix'25 | SRM Institute of Science & Technology | **1st Place** |
-| 🎙️ | **Brain to Business** — Idea Pitching | Sri Sairam Engineering College (IEEE TEMS) | Coordinator |
-| ⚡ | **Winspire 1.0** — Idea Pitching | Sri Sairam Engineering College (IEEE TEMS) | Coordinator |
+| 🏅 | **Brain to Business** — Idea Pitching Event | Sri Sairam Engineering College (IEEE TEMS) | Coordinator |
+| 🏅 | **Winspire 1.0** — Idea Pitching Event | Sri Sairam Engineering College (IEEE TEMS) | Coordinator |
 
-### Leadership & Impact
+### Community & Leadership
 
-- 🏛️ **IEEE TEMS SEC SB** — Coordinated two flagship innovation events *(Feb 2025 & Apr–May 2025)*, fostering entrepreneurial thinking among second-year students
-- 🎓 **IoT Mentor** — Guided school students through real-time embedded systems, strengthening communication, teamwork, and technical training
+- **IEEE TEMS SEC SB Coordinator** — Organised two back-to-back idea pitching events (*Brain to Business* & *Winspire 1.0*) for 2nd-year students, Feb–May 2025
+- **IoT Mentor** — Guided school students on real-time embedded systems during team-based IoT internship
 
 <br/>
 
 ---
 
-## 💼 Experience
+## Experience
 
-| Company | Role | Period | Impact |
+| Company | Role | Duration | Highlights |
 |:---|:---|:---:|:---|
-| **Wealth Empires** | Web Developer Intern | Sep–Oct 2025 | Built startup compliance & incorporation platform; collaborated with stakeholders |
-| **IoT Internship** | Team-based IoT Developer | Jun–Jul 2025 | 19-member offline team; real-time embedded systems + mentored school students |
-| **Prodigy Infotech** | Web Development Intern | Jun–Jul 2024 | Built portfolio site, JS apps (Tic-Tac-Toe, Stopwatch), responsive landing pages |
+| **Wealth Empires** | Web Developer Intern | Sep–Oct 2025 | Built responsive business site with startup compliance tools; collaborated directly with founders |
+| **IoT Team Internship** | Team-Based IoT Dev | Jun–Jul 2025 | 19-member team · Real-time embedded systems · Mentored school students |
+| **Prodigy Infotech** | Web Development Intern | Jun–Jul 2024 | Portfolio site, JS-based apps (Tic-Tac-Toe, Stopwatch), responsive landing pages |
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
+
+<table border="0" width="96%" cellpadding="18" cellspacing="0">
+<tr>
+<td width="25%" align="center" valign="top">
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=2" />
+
+</td>
+<td width="25%" align="center" valign="top">
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css&theme=dark&perline=2" />
 
-**Backend & Databases**
+</td>
+<td width="25%" align="center" valign="top">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+**Backend & DB**
 
-**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark&perline=2" />
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,flutter&theme=dark)](https://skillicons.dev)
+</td>
+<td width="25%" align="center" valign="top">
 
-**Also Working With**
+**Tools**
 
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=2" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -105,82 +131,66 @@ madhesh = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 ThePlug — eCommerce Platform
-> *Built for a real client. Live, shipped, used.*
+<table align="center" width="96%" border="0" cellpadding="16" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
 
-A production-grade **full-stack eCommerce website** for a computer electronics retailer — built from scratch with focus on performance, security, and seamless shopping UX.
+### ThePlug — Electronics eCommerce Platform
+> *Building a reliable online storefront for computer electronics*
 
+A production **full-stack eCommerce website** built for a real client. Handles product management, secure authentication, and checkout flow end-to-end.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+- MERN stack with optimized checkout and cart performance
+- Secure user authentication and session management
+- Responsive design for seamless mobile and desktop experience
+- Live client deployment for a real electronics business
+
+<a href="https://github.com/madheshr005"><img src="https://img.shields.io/badge/%E2%96%B6%20VIEW%20REPO-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Wealth Empires — Startup Business Platform
+> *India's 1st Startup Doctor — digitized*
+
+A **responsive business web platform** for Wealth Empires, integrating startup compliance tools, business incorporation flows, and a health-check module for early-stage companies.
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-- **End-to-end MERN stack** — product listing, cart, checkout, and order management
-- **Secure user authentication** with protected routes and session handling
-- **Optimized checkout flow** engineered for better conversion and reduced drop-off
-- **Fully responsive** design across mobile, tablet, and desktop
-
----
-
-### 🏢 Wealth Empires — Startup Services Platform
-> *Digital infrastructure for India's 1st Startup Doctor.*
-
-A responsive, feature-rich **startup ecosystem platform** integrating business incorporation tools, compliance modules, and a startup health-check system — developed directly with real stakeholders.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- **Compliance automation** and digital startup incorporation tools integrated end-to-end
-- **Enhanced UI/UX** for accessibility across diverse user types and business stages
-- **Collaborative build** — worked directly with startup stakeholders for real-world fit
-- Designed for **scalability** from day one
-
----
-
-### 💼 Prodigy Infotech — Web Dev Internship Projects
-> *Learning by shipping: real apps, real code, real feedback.*
-
-A collection of projects built during the **Prodigy Infotech Web Dev Internship** covering DOM manipulation, JavaScript fundamentals, and responsive UI design.
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- **Personal portfolio website** — project showcase with clean, responsive UI
-- **Tic-Tac-Toe game** — complete game logic, state management, dynamic DOM rendering
-- **Stopwatch app** — precise timing with start/stop/lap controls
-- **Responsive landing page** — pixel-perfect cross-device layout using modern HTML/CSS
+- Built directly with startup stakeholders — production-deployed
+- Compliance automation and digital incorporation modules
+- Improved accessibility and scalability via enhanced UI/UX
+- Continued as a real-world client engagement beyond internship
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-## 📜 Certifications
+## Certifications
+
+<div align="center">
 
 | Certification | Issuer | Skills |
-|:---|:---:|:---|
-| Full-Stack Web Developer | Udemy | MERN · REST APIs · Web Architecture |
-| Networking Basics | Cisco | Networking · Protocols · Security Fundamentals |
-| Programming in Java | NPTEL | Core Java · OOP · Data Structures |
-| Introduction to Database Systems | NPTEL | SQL · DBMS · Relational Models |
-| Web Development Full Stack | Udemy & STTP | HTML · CSS · JS · Node · React |
-| Java Full Stack | Udemy & STTP | Spring · Java · Backend Architecture |
-| Java, C, CSS, R | Spoken Tutorial | Multi-language Programming Fundamentals |
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=madheshr005&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madheshr005&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+|:---|:---|:---|
+| Full-Stack Web Developer | Udemy | MERN · REST APIs · Deployment |
+| Networking Basics | Cisco | Networking · TCP/IP · Protocols |
+| Programming in Java | NPTEL | Core Java · OOP |
+| Introduction to Database Systems | NPTEL | SQL · DBMS · Relational Modeling |
+| Web Development Full Stack | Udemy & STTP | HTML · CSS · JS · React · Node |
+| Java & C | Spoken Tutorial (IIT Bombay) | Java · C · Systems Programming |
 
 </div>
 
@@ -188,13 +198,21 @@ A collection of projects built during the **Prodigy Infotech Web Dev Internship*
 
 ---
 
+## Contribution Graph
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:1e3a8a&height=120&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madheshr005&theme=react-dark&hide_border=true&area=true&custom_title=Madhesh%27s%20Contribution%20Graph" width="100%" />
 </div>
 
+<br/>
+
+---
+
 <div align="center">
 
-*If my work resonates, let's connect — always open to meaningful builds and collaborations.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+*Good code is built with curiosity — let's connect and ship something worth using.*
 
 <br/>
 
