@@ -30,9 +30,9 @@
 
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
-<td align="center" valign="middle" width="200">
+<td width="22%" align="center" valign="middle">
 
-<img src="https://github.com/Madhesh005.png" width="150" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
+<img src="https://github.com/Madhesh005.png" width="155" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
 
 <br/><br/>
 
@@ -42,13 +42,13 @@
 <br/>
 
 ![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
-
 ![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
-
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
 
 </td>
-<td valign="middle">
+<td width="78%" valign="middle">
+
+## About Me
 
 > *"Build systems that matter — privacy-first, chain-native, production-grade."*
 
