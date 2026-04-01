@@ -27,11 +27,12 @@
 ---
 
 ## About Me
+
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
-<td width="22%" align="center" valign="middle">
+<td align="center" valign="middle" width="200">
 
-<img src="https://github.com/Madhesh005.png" width="155" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
+<img src="https://github.com/Madhesh005.png" width="150" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
 
 <br/><br/>
 
@@ -41,18 +42,32 @@
 <br/>
 
 ![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
+
 ![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
+
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
 
 </td>
-<td width="78%" valign="middle">
-
-## About Me
+<td valign="middle">
 
 > *"Build systems that matter — privacy-first, chain-native, production-grade."*
 
 I'm **Madhesh R** — a **Full-Stack + Blockchain + ZK Engineer** and pre-final year **CSBS student** at Sri Sairam Engineering College, Chennai. I build privacy-preserving DeFi systems, hybrid blockchain infrastructure, and scalable web applications — with a strong focus on real-world FinTech and Web3 impact.
 ```python
+madhesh = {
+    "role":       ["Full-Stack Developer", "Blockchain Engineer", "ZK Systems Builder"],
+    "education":  "B.Tech CSBS @ Sri Sairam Engineering College (CGPA: 8.46)",
+    "highlights": ["RBI NFPC Top 12 Finalist", "IEEE MasterMind 2025–26", "SprintXplore SDE Intern"],
+    "stack":      ["MERN", "Solidity", "zk-SNARKs", "HyperLedger Fabric", "IPFS"],
+    "domains":    ["DeFi", "Web3", "FinTech", "Blockchain Infrastructure"],
+    "status":     "Open to internships & full-time roles",
+}
+```
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 ---
