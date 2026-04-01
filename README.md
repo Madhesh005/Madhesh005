@@ -28,46 +28,49 @@
 
 ## About Me
 
+═══════════════════════════════════════════════════════════════
+                          ABOUT ME
+═══════════════════════════════════════════════════════════════-->
+
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
-<td align="center" valign="middle" width="200">
+<td width="22%" align="center" valign="middle">
 
-<img src="https://github.com/Madhesh005.png" width="150" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
+<img src="https://github.com/tharunkumardeveloper.png" width="155" alt="Tharun Kumar C" style="border-radius:50%;border:3px solid #7C3AED;" />
 
 <br/><br/>
 
-**Madhesh R**<br/>
-<sub>Full-Stack · Blockchain · ZK</sub>
+*Tharun Kumar C*<br/>
+<sub>AI Researcher &middot; Developer &middot; Author</sub>
 
 <br/>
 
-![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
-
-![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
-
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
+![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-7C3AED?style=flat-square)
+![XP](https://img.shields.io/badge/XP-9999%2B-FFD700?style=flat-square)
 
 </td>
-<td valign="middle">
+<td width="78%" valign="middle">
 
-> *"Build systems that matter — privacy-first, chain-native, production-grade."*
+## About Me
 
-I'm **Madhesh R** — a **Full-Stack + Blockchain + ZK Engineer** and pre-final year **CSBS student** at Sri Sairam Engineering College, Chennai. I build privacy-preserving DeFi systems, hybrid blockchain infrastructure, and scalable web applications — with a strong focus on real-world FinTech and Web3 impact.
-```python
-madhesh = {
-    "role":       ["Full-Stack Developer", "Blockchain Engineer", "ZK Systems Builder"],
-    "education":  "B.Tech CSBS @ Sri Sairam Engineering College (CGPA: 8.46)",
-    "highlights": ["RBI NFPC Top 12 Finalist", "IEEE MasterMind 2025–26", "SprintXplore SDE Intern"],
-    "stack":      ["MERN", "Solidity", "zk-SNARKs", "HyperLedger Fabric", "IPFS"],
-    "domains":    ["DeFi", "Web3", "FinTech", "Blockchain Infrastructure"],
-    "status":     "Open to internships & full-time roles",
+> "Bridging cutting-edge AI research with real-world impact — one commit at a time."
+
+I'm *Tharun Kumar C* — an *AI Researcher, **Patent Holder, **6x Published Author, and **Pre-final Year CS Student* at Sri Sairam Engineering College. I build intelligent systems from clinical AI to full-stack platforms, with deep focus on *LLMs, **Explainable AI, and **Agentic Automation*.
+
+python
+tharun = {
+    "role":       ["AI Researcher", "Full-Stack Developer", "6x Author"],
+    "highlights": ["Patent Holder", "RBIH NFPC Finalist", "STATATHON 2026 Finalist"],
+    "experience": ["Ex-Intern @ Infosys", "Ex-Intern @ 1M1B"],
+    "interests":  ["LLMs", "Agentic AI", "XAI", "FinTech AI", "Healthcare AI"],
+    "building":   "Jarvis — LLM-powered Personal AI Assistant",
+    "status":     "Always open to collaborate",
 }
-```
+
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 ---
