@@ -27,50 +27,32 @@
 ---
 
 ## About Me
-
-═══════════════════════════════════════════════════════════════
-                          ABOUT ME
-═══════════════════════════════════════════════════════════════-->
-
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
 <td width="22%" align="center" valign="middle">
 
-<img src="https://github.com/tharunkumardeveloper.png" width="155" alt="Tharun Kumar C" style="border-radius:50%;border:3px solid #7C3AED;" />
+<img src="https://github.com/Madhesh005.png" width="155" alt="Madhesh R" style="border-radius:50%;border:3px solid #2563EB;" />
 
 <br/><br/>
 
-*Tharun Kumar C*<br/>
-<sub>AI Researcher &middot; Developer &middot; Author</sub>
+**Madhesh R**<br/>
+<sub>Full-Stack · Blockchain · ZK</sub>
 
 <br/>
 
-![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-7C3AED?style=flat-square)
-![XP](https://img.shields.io/badge/XP-9999%2B-FFD700?style=flat-square)
+![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
 
 </td>
 <td width="78%" valign="middle">
 
 ## About Me
 
-> "Bridging cutting-edge AI research with real-world impact — one commit at a time."
+> *"Build systems that matter — privacy-first, chain-native, production-grade."*
 
-I'm *Tharun Kumar C* — an *AI Researcher, **Patent Holder, **6x Published Author, and **Pre-final Year CS Student* at Sri Sairam Engineering College. I build intelligent systems from clinical AI to full-stack platforms, with deep focus on *LLMs, **Explainable AI, and **Agentic Automation*.
-
-python
-tharun = {
-    "role":       ["AI Researcher", "Full-Stack Developer", "6x Author"],
-    "highlights": ["Patent Holder", "RBIH NFPC Finalist", "STATATHON 2026 Finalist"],
-    "experience": ["Ex-Intern @ Infosys", "Ex-Intern @ 1M1B"],
-    "interests":  ["LLMs", "Agentic AI", "XAI", "FinTech AI", "Healthcare AI"],
-    "building":   "Jarvis — LLM-powered Personal AI Assistant",
-    "status":     "Always open to collaborate",
-}
-
-
-</td>
-</tr>
-</table>
+I'm **Madhesh R** — a **Full-Stack + Blockchain + ZK Engineer** and pre-final year **CSBS student** at Sri Sairam Engineering College, Chennai. I build privacy-preserving DeFi systems, hybrid blockchain infrastructure, and scalable web applications — with a strong focus on real-world FinTech and Web3 impact.
+```python
 <br/>
 
 ---
