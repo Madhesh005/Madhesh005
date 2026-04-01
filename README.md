@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhesh%20R&fontSize=56&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20%26%20Business%20Systems&descAlignY=58&descSize=16&descColor=93C5FD&animation=twinkling" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhesh%20R&fontSize=56&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20%26%20Business%20Systems&descAlignY=58&descSize=16&descColor=93C5FD&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhesh%20R...)" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+%2B+Flutter;Paper+Presentation+Winner+%40+Phoenix%2725;IEEE+TEMS+Event+Coordinator+%7C+Sri+Sairam;Building+Real+Products+for+Real+Clients" alt="Typing SVG" />
 
