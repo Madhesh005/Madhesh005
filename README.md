@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Madhesh%20R&fontSize=60&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20%E2%80%A2%20Blockchain%20%E2%80%A2%20ZK%20Engineer%20%E2%80%A2%20RBI%20NFPC%20Finalist&descAlignY=58&descSize=16&descColor=93C5FD&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Madhesh%20R&fontSize=60&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20%E2%80%A2%20Blockchain%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20RBI%20NFPC%20Finalist&descAlignY=58&descSize=16&descColor=93C5FD&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+MERN+%2B+Solidity+%2B+ZK-SNARKs;Blockchain+Engineer+%7C+Ethereum+%2B+HyperLedger+Fabric;RBI+NFPC+National+Hackathon+Finalist+%E2%80%94+Top+12+%2F+500%2B+Teams;Builder+of+Real+Systems+%7C+DeFi+%2B+Web3+%2B+FinTech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+MERN+%2B+AI%2FML;Blockchain+Engineer+%7C+Ethereum+%2B+HyperLedger+Fabric;RBI+NFPC+National+Hackathon+Finalist+%E2%80%94+Top+12+%2F+500%2B+Teams;Builder+of+Real+Systems+%7C+Software+Development+%2B+AI%2FML+%2B+Data+Mining" alt="Typing SVG" />
 
 </div>
 
@@ -37,12 +37,12 @@
 <br/><br/>
 
 **Madhesh R**<br/>
-<sub>Full-Stack · Blockchain · ZK</sub>
+<sub>Full-Stack · Blockchain · AI/ML</sub>
 
 <br/>
 
 ![Level](https://img.shields.io/badge/LEVEL-PRE--FINAL-2563EB?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-8.46-22C55E?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.50-22C55E?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FFD700?style=flat-square)
 
 </td>
@@ -52,14 +52,14 @@
 
 > *"Build systems that matter — privacy-first, chain-native, production-grade."*
 
-I'm **Madhesh R** — a **Full-Stack + Blockchain + ZK Engineer** and pre-final year **CSBS student** at Sri Sairam Engineering College, Chennai. I build privacy-preserving DeFi systems, hybrid blockchain infrastructure, and scalable web applications — with a strong focus on real-world FinTech and Web3 impact.
+I'm **Madhesh R** — a **Full-Stack + Blockchain + AI/ML Engineer** and pre-final year **CSBS student** at Sri Sairam Engineering College, Chennai. I build privacy-preserving DeFi systems, hybrid blockchain infrastructure, and scalable web applications — with a strong focus on real-world FinTech and Web3 impact.
 ```python
 madhesh = {
-    "role":       ["Full-Stack Developer", "Blockchain Engineer", "ZK Systems Builder"],
-    "education":  "B.Tech CSBS @ Sri Sairam Engineering College (CGPA: 8.46)",
-    "highlights": ["RBI NFPC Top 12 Finalist", "IEEE MasterMind 2025–26", "SprintXplore SDE Intern"],
-    "stack":      ["MERN", "Solidity", "zk-SNARKs", "HyperLedger Fabric", "IPFS"],
-    "domains":    ["DeFi", "Web3", "FinTech", "Blockchain Infrastructure"],
+    "role":       ["Full-Stack Developer", "Blockchain Engineer", "AI/ML Engineer"],
+    "education":  "B.Tech CSBS @ Sri Sairam Engineering College (CGPA: 8.50)",
+    "highlights": ["RBI NFPC Top 12 Finalist", "IEEE RS MasterMind 2025–26", "SprintXplore SDE Intern"],
+    "stack":      ["MERN", "Java", "AI/ML", "HyperLedger Fabric", "IPFS"],
+    "domains":    ["Software Development", "AI/ML", "Data Mining", "Blockchain Infrastructure"],
     "status":     "Open to internships & full-time roles",
 }
 ```
@@ -118,6 +118,8 @@ madhesh = {
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark&perline=2" />
 
+<img src="https://img.shields.io/badge/Java_Development-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+
 </td>
 <td width="20%" align="center" valign="top">
 
@@ -151,15 +153,26 @@ madhesh = {
 <tr>
 <td colspan="5" align="center" valign="middle">
 
-**Blockchain & ZK**
+**AI/ML & Data Mining**
 
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark&perline=6" />
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Mining-4B8BBE?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-1560BD?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LightGBM-00A651?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
-<br/>
+</td>
+</tr>
+<tr>
+<td colspan="5" align="center" valign="middle">
+
+**Blockchain**
 
 <img src="https://img.shields.io/badge/HyperLedger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/zk--SNARKs-7C3AED?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
 <img src="https://img.shields.io/badge/Smart_Contracts-F7931A?style=flat-square&logoColor=white" />
 
@@ -215,6 +228,27 @@ A **hybrid blockchain system for MSME invoice financing** built for DeltaBuild 2
 - **Top 12 Finalist — RBI NFPC National Hackathon** (500+ competing teams)
 
 <a href="https://github.com/Madhesh005/ChainVoice"><img src="https://img.shields.io/badge/%E2%96%B6%20VIEW%20REPO-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+
+### ScamShield
+> *Catching mule accounts before the money moves*
+
+An **AI-powered money mule fraud detection system** built for the RBIH NFPC Hackathon (Top 12 / 500+ Teams). A multi-layer fraud detection pipeline processing 400M+ transactions with 164 engineered features.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00A651?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1560BD?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square&logoColor=white)
+![Graph Intelligence](https://img.shields.io/badge/Graph_Intelligence-0F172A?style=flat-square&logoColor=white)
+
+- Multi-layer fraud detection pipeline integrating graph intelligence, an FLSM Engine (Fraud Lifecycle State Machine tracking DORMANT → WARMING → BURST → EXPLOIT → EXIT transitions), and Temporal IoU for short-window mule detection — achieving **AUC-ROC: 0.9424**
+- Built an explainable ensemble ML system (LightGBM + XGBoost + SHAP) with a 7-category RH Defense taxonomy to minimize false positives
+- Enables real-time, regulatory-compliant fraud decisions for large-scale financial systems
+- **Top 12 Finalist — RBI NFPC National Hackathon** (500+ competing teams)
 
 </td>
 </tr>
